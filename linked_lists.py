@@ -1,6 +1,6 @@
 # Linked List
 # Linear data structure; elements NOT stored at contiguous memory locations;
-# "...linear collection of data ele's whose order is not given by their
+# "...linear collection of data elements whose order is not given by their
 # physical placement in memory. Instead, each ele points to the next. It
 # consists of a collection of nodes which together represent a sequence.
 # In its most basic form, each node contains data and a reference (link)
